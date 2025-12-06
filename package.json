@@ -10,8 +10,6 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "lucide-react": "^0.0.8",
-    "lucide-reactjs": "^0.0.8",
     "lucide-react": "^0.556.0",
     "next": "16.0.7",
     "react": "19.2.0",
