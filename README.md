@@ -1,6 +1,6 @@
 # CRM Dashboard - Pixel Perfect Implementation
 
-A production-ready CRM dashboard built with Next.js 14, TypeScript, and Tailwind CSS, implementing the exact Figma design specifications.
+A production-ready CRM dashboard built with Next.js 15, TypeScript, and Tailwind CSS, implementing the exact Figma design specifications.
 
 ## Features
 
@@ -40,3 +40,47 @@ npm install
 
 npm run dev
 ```
+
+### Environment Variables
+
+No environment variables required for this demo.
+
+### Deployment
+
+Deployed on Vercel: Live Demo
+
+### Key Implementation Details
+
+Auth Flow: JWT-like localStorage tokens with route protection
+
+### Error Handling: Comprehensive error states with retry functionality
+
+### Component Design: Compound components with proper TypeScript generics
+
+### Performance: Memoization, pagination, and efficient re-renders
+
+### Accessibility: Semantic HTML, ARIA labels, keyboard navigation
+
+### Assumptions
+
+Mock APIs used for demonstration
+
+### Login validation happens client-side (would be server-side in production)
+
+### Data transformations simulate real-world scenarios
+
+### Responsive breakpoints: Mobile (< 640px), Tablet (640-1024px), Desktop (> 1024px)
+
+### Future Enhancements
+
+Real backend API integration
+
+JWT token refresh mechanism
+
+Advanced filtering with URL sync
+
+Data export to CSV/Excel
+
+Dark mode support
+
+Unit and integration tests
