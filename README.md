@@ -14,7 +14,7 @@ A production-ready CRM dashboard built with Next.js 14, TypeScript, and Tailwind
 
 ## Live Demo
 
-Deployed on Vercel: [https://crm-dashboard-demo.vercel.app](https://crm-dashboard-demo.vercel.app)
+Deployed on Vercel: [https://crm-dashboard-demo-six.vercel.app/]
 
 ## 🛠 Tech Stack
 
