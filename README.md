@@ -18,10 +18,10 @@ Deployed on Vercel: [https://crm-dashboard-demo-six.vercel.app/]
 
 ### Tech Stack
 
-- **Next.js 14** - React framework with App Router
+- **Next.js 16** - React framework with App Router
 - **TypeScript** - Type safety and better developer experience
 - **Tailwind CSS** - Utility-first CSS framework
-- **Iconsax React** - Beautiful icon library
+- **Lucide React** - Beautiful icon library
 - **Context API** - Built-in React state management
 - **ESLint/Prettier** - Code quality and formatting
 
