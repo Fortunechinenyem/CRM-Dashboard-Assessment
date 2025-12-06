@@ -2,7 +2,7 @@
 
 A production-ready CRM dashboard built with Next.js 15, TypeScript, and Tailwind CSS, implementing the exact Figma design specifications.
 
-## Features
+### Features
 
 - **Pixel-Perfect Design**: Exact implementation of provided Figma design
 - **Responsive Layout**: Mobile, tablet, and desktop optimized
@@ -12,11 +12,11 @@ A production-ready CRM dashboard built with Next.js 15, TypeScript, and Tailwind
 - **Component Library**: Reusable UI components with TypeScript
 - **State Management**: Context API for global state
 
-## Live Demo
+### Live Demo
 
 Deployed on Vercel: [https://crm-dashboard-demo-six.vercel.app/]
 
-## 🛠 Tech Stack
+### Tech Stack
 
 - **Next.js 14** - React framework with App Router
 - **TypeScript** - Type safety and better developer experience
